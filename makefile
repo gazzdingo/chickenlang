@@ -2,8 +2,8 @@ LFLAGS = `sdl-config --libs` -lSDL
 CC=gcc
 
 
-test : test.o lexer.o parser.tab.o cw1.o chicken.o
-	$(CC) -o test test.o cw1.o lexer.o parser.tab.o chicken.o -L/usr/lib/x86_64-linux-gnu -lSDL
+test : test.o lexer.o parser.tab.o cw1.o chicken.o syntax.o
+	$(CC) -o test test.o cw1.o lexer.o parser.tab.o chicken.o syntax.o -L/usr/lib/x86_64-linux-gnu -lSDL
 
 
 parser.tab.c : parser.y
@@ -29,3 +29,6 @@ test.o : test.c parser.tab.h lexer.h
 
 chicken.o: chicken.c
 	$(CC) -c chicken.c
+
+syntax.o : syntax.c
+	$(cc) -c syntax.c

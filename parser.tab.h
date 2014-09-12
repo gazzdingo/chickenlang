@@ -51,13 +51,10 @@ extern int yydebug;
     IDENTIFIER = 261,
     OPENPA_TOKEN = 262,
     CLOSEDPA_TOKEN = 263,
-    PLUS = 264,
-    MINUS = 265,
-    TIMES = 266,
-    DIVIDE = 267,
-    SEMICOLON = 268,
-    EQUALS = 269,
-    ERROR = 270
+    NEW_TOKEN = 264,
+    EQUALS_TOKEN = 265,
+    COMMA_TOKEN = 266,
+    SEMICOL_TOKEN = 267
   };
 #endif
 
@@ -66,13 +63,14 @@ extern int yydebug;
 typedef union YYSTYPE YYSTYPE;
 union YYSTYPE
 {
-#line 11 "parser.y" /* yacc.c:1909  */
+#line 12 "parser.y" /* yacc.c:1909  */
 
 
 	int an_int;
 	char *a_string;
+	struct chickenVals a_chicken_val;
 
-#line 76 "parser.tab.h" /* yacc.c:1909  */
+#line 74 "parser.tab.h" /* yacc.c:1909  */
 };
 # define YYSTYPE_IS_TRIVIAL 1
 # define YYSTYPE_IS_DECLARED 1
