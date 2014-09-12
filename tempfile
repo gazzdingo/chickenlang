@@ -1,0 +1,1837 @@
+In file included from test.c:6:0:
+parser.tab.o:1:1: error: stray ‘\177’ in program
+ ELF��H�4��������t�����ǅ������ 
+ ^
+parser.tab.o:1:1: error: stray ‘\2’ in program
+parser.tab.o:1:1: error: stray ‘\1’ in program
+parser.tab.o:1:1: error: stray ‘\1’ in program
+parser.tab.o:1:8: warning: null character(s) ignored [enabled by default]
+ ELF���ǅ������ 
+        ^
+parser.tab.o:1:1: error: stray ‘\1’ in program
+parser.tab.o:1:18: warning: null character(s) ignored [enabled by default]
+parser.tab.o:1:19: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘>’ token
+parser.tab.o:1:20: warning: null character(s) ignored [enabled by default]
+parser.tab.o:1:19: error: stray ‘\1’ in program
+parser.tab.o:1:22: warning: null character(s) ignored [enabled by default]
+parser.tab.o:1:19: error: stray ‘\230’ in program
+parser.tab.o:1:42: warning: null character(s) ignored [enabled by default]
+parser.tab.o:1:53: error: stray ‘@’ in program
+parser.tab.o:1:54: warning: null character(s) ignored [enabled by default]
+parser.tab.o:1:59: error: stray ‘@’ in program
+parser.tab.o:1:60: warning: null character(s) ignored [enabled by default]
+parser.tab.o:2:1: warning: null character(s) ignored [enabled by default]
+parser.tab.o:3:1: warning: null character(s) ignored [enabled by default]
+parser.tab.o:3:2: error: stray ‘\211’ in program
+parser.tab.o:3:2: error: stray ‘\345’ in program
+parser.tab.o:3:2: error: stray ‘\211’ in program
+parser.tab.o:3:2: error: stray ‘\370’ in program
+parser.tab.o:3:2: error: stray ‘\211’ in program
+parser.tab.o:3:2: error: stray ‘\364’ in program
+parser.tab.o:3:11: error: unknown type name ‘u’
+parser.tab.o:3:2: error: stray ‘\211’ in program
+parser.tab.o:3:15: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘U’
+parser.tab.o:3:15: error: stray ‘\350’ in program
+parser.tab.o:3:15: error: unknown type name ‘U’
+parser.tab.o:3:15: error: stray ‘\203’ in program
+parser.tab.o:3:15: error: stray ‘\370’ in program
+parser.tab.o:3:21: warning: null character(s) ignored [enabled by default]
+parser.tab.o:3:15: error: stray ‘\10’ in program
+parser.tab.o:3:22: error: unknown type name ‘u’
+parser.tab.o:3:15: error: stray ‘\307’ in program
+parser.tab.o:3:26: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘E’
+parser.tab.o:3:26: error: stray ‘\370’ in program
+parser.tab.o:3:28: warning: null character(s) ignored [enabled by default]
+parser.tab.o:3:26: error: stray ‘\303’ in program
+parser.tab.o:3:26: error: stray ‘\211’ in program
+parser.tab.o:3:26: error: stray ‘\345’ in program
+parser.tab.o:3:26: error: stray ‘\201’ in program
+parser.tab.o:3:26: error: stray ‘\354’ in program
+parser.tab.o:3:26: error: stray ‘\10’ in program
+parser.tab.o:3:43: warning: null character(s) ignored [enabled by default]
+parser.tab.o:3:26: error: stray ‘\307’ in program
+parser.tab.o:3:26: error: stray ‘\205’ in program
+parser.tab.o:3:26: error: stray ‘\310’ in program
+parser.tab.o:3:26: error: stray ‘\367’ in program
+parser.tab.o:3:26: error: stray ‘\377’ in program
+parser.tab.o:3:26: error: stray ‘\377’ in program
+parser.tab.o:3:51: warning: null character(s) ignored [enabled by default]
+parser.tab.o:3:26: error: stray ‘\307’ in program
+parser.tab.o:3:26: error: stray ‘\205’ in program
+parser.tab.o:3:26: error: stray ‘\314’ in program
+parser.tab.o:3:26: error: stray ‘\367’ in program
+parser.tab.o:3:26: error: stray ‘\377’ in program
+parser.tab.o:3:26: error: stray ‘\377’ in program
+parser.tab.o:3:61: warning: null character(s) ignored [enabled by default]
+parser.tab.o:3:26: error: stray ‘\215’ in program
+parser.tab.o:3:26: error: stray ‘\205’ in program
+parser.tab.o:3:26: error: stray ‘\370’ in program
+parser.tab.o:3:26: error: stray ‘\377’ in program
+parser.tab.o:3:26: error: stray ‘\377’ in program
+parser.tab.o:3:26: error: stray ‘\211’ in program
+parser.tab.o:3:26: error: stray ‘\205’ in program
+parser.tab.o:3:26: error: stray ‘\340’ in program
+parser.tab.o:3:26: error: stray ‘\367’ in program
+parser.tab.o:3:26: error: stray ‘\377’ in program
+parser.tab.o:3:26: error: stray ‘\377’ in program
+parser.tab.o:3:26: error: stray ‘\213’ in program
+parser.tab.o:3:26: error: stray ‘\205’ in program
+parser.tab.o:3:26: error: stray ‘\340’ in program
+parser.tab.o:3:26: error: stray ‘\367’ in program
+parser.tab.o:3:26: error: stray ‘\377’ in program
+parser.tab.o:3:26: error: stray ‘\377’ in program
+parser.tab.o:3:26: error: stray ‘\211’ in program
+parser.tab.o:3:26: error: stray ‘\205’ in program
+parser.tab.o:3:26: error: stray ‘\350’ in program
+parser.tab.o:3:26: error: stray ‘\367’ in program
+parser.tab.o:3:26: error: stray ‘\377’ in program
+parser.tab.o:3:26: error: stray ‘\377’ in program
+parser.tab.o:3:26: error: stray ‘\215’ in program
+parser.tab.o:3:26: error: stray ‘\205’ in program
+parser.tab.o:3:26: error: stray ‘\300’ in program
+parser.tab.o:3:26: error: stray ‘\371’ in program
+parser.tab.o:3:26: error: stray ‘\377’ in program
+parser.tab.o:3:26: error: stray ‘\377’ in program
+parser.tab.o:3:26: error: stray ‘\211’ in program
+parser.tab.o:3:26: error: stray ‘\205’ in program
+parser.tab.o:3:26: error: stray ‘\360’ in program
+parser.tab.o:3:26: error: stray ‘\367’ in program
+parser.tab.o:3:26: error: stray ‘\377’ in program
+parser.tab.o:3:26: error: stray ‘\377’ in program
+parser.tab.o:3:26: error: stray ‘\213’ in program
+parser.tab.o:3:26: error: stray ‘\205’ in program
+parser.tab.o:3:26: error: stray ‘\360’ in program
+parser.tab.o:3:26: error: stray ‘\367’ in program
+parser.tab.o:3:26: error: stray ‘\377’ in program
+parser.tab.o:3:26: error: stray ‘\377’ in program
+parser.tab.o:3:26: error: stray ‘\211’ in program
+parser.tab.o:3:26: error: stray ‘\205’ in program
+parser.tab.o:3:26: error: stray ‘\370’ in program
+parser.tab.o:3:26: error: stray ‘\367’ in program
+parser.tab.o:3:26: error: stray ‘\377’ in program
+parser.tab.o:3:26: error: stray ‘\377’ in program
+parser.tab.o:3:26: error: stray ‘\307’ in program
+parser.tab.o:3:26: error: stray ‘\205’ in program
+parser.tab.o:3:124: warning: null character(s) ignored [enabled by default]
+parser.tab.o:3:26: error: stray ‘\370’ in program
+parser.tab.o:3:26: error: stray ‘\377’ in program
+parser.tab.o:3:26: error: stray ‘\377’ in program
+parser.tab.o:3:26: error: stray ‘\310’ in program
+In file included from test.c:6:0:
+parser.tab.o:3:129: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:3:26: error: stray ‘\307’ in program
+parser.tab.o:3:26: error: stray ‘\205’ in program
+parser.tab.o:3:26: error: stray ‘\270’ in program
+parser.tab.o:3:26: error: stray ‘\367’ in program
+parser.tab.o:3:26: error: stray ‘\377’ in program
+parser.tab.o:3:26: error: stray ‘\377’ in program
+In file included from test.c:6:0:
+parser.tab.o:3:138: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:3:26: error: stray ‘\307’ in program
+parser.tab.o:3:26: error: stray ‘\205’ in program
+parser.tab.o:3:26: error: stray ‘\274’ in program
+parser.tab.o:3:26: error: stray ‘\367’ in program
+parser.tab.o:3:26: error: stray ‘\377’ in program
+parser.tab.o:3:26: error: stray ‘\377’ in program
+In file included from test.c:6:0:
+parser.tab.o:3:148: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:3:26: error: stray ‘\307’ in program
+parser.tab.o:3:26: error: stray ‘\5’ in program
+In file included from test.c:6:0:
+parser.tab.o:3:154: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:3:26: error: stray ‘\307’ in program
+parser.tab.o:3:26: error: stray ‘\5’ in program
+In file included from test.c:6:0:
+parser.tab.o:3:164: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:3:26: error: stray ‘\376’ in program
+parser.tab.o:3:26: error: stray ‘\377’ in program
+parser.tab.o:3:26: error: stray ‘\377’ in program
+parser.tab.o:3:26: error: stray ‘\377’ in program
+parser.tab.o:3:26: error: stray ‘\353’ in program
+parser.tab.o:3:26: error: stray ‘\10’ in program
+parser.tab.o:3:26: error: stray ‘\203’ in program
+parser.tab.o:3:26: error: stray ‘\205’ in program
+parser.tab.o:3:26: error: stray ‘\350’ in program
+parser.tab.o:3:26: error: stray ‘\367’ in program
+parser.tab.o:3:26: error: stray ‘\377’ in program
+parser.tab.o:3:26: error: stray ‘\377’ in program
+parser.tab.o:3:26: error: stray ‘\2’ in program
+parser.tab.o:3:26: error: stray ‘\213’ in program
+parser.tab.o:3:26: error: stray ‘\205’ in program
+parser.tab.o:3:26: error: stray ‘\270’ in program
+parser.tab.o:3:26: error: stray ‘\367’ in program
+parser.tab.o:3:26: error: stray ‘\377’ in program
+parser.tab.o:3:26: error: stray ‘\377’ in program
+parser.tab.o:3:26: error: stray ‘\211’ in program
+parser.tab.o:3:26: error: stray ‘\302’ in program
+parser.tab.o:3:26: error: stray ‘\213’ in program
+parser.tab.o:3:26: error: stray ‘\205’ in program
+parser.tab.o:3:26: error: stray ‘\350’ in program
+parser.tab.o:3:26: error: stray ‘\367’ in program
+parser.tab.o:3:26: error: stray ‘\377’ in program
+parser.tab.o:3:26: error: stray ‘\377’ in program
+parser.tab.o:3:26: error: stray ‘\211’ in program
+parser.tab.o:3:26: error: stray ‘\20’ in program
+parser.tab.o:3:26: error: stray ‘\213’ in program
+parser.tab.o:3:26: error: stray ‘\205’ in program
+In file included from test.c:6:0:
+parser.tab.o:3:203: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:3:26: error: stray ‘\370’ in program
+parser.tab.o:3:26: error: stray ‘\377’ in program
+parser.tab.o:3:26: error: stray ‘\377’ in program
+parser.tab.o:3:26: error: stray ‘\1’ in program
+parser.tab.o:3:26: error: stray ‘\300’ in program
+parser.tab.o:3:26: error: stray ‘\215’ in program
+parser.tab.o:3:26: error: stray ‘\376’ in program
+parser.tab.o:3:26: error: stray ‘\213’ in program
+parser.tab.o:3:26: error: stray ‘\205’ in program
+parser.tab.o:3:26: error: stray ‘\340’ in program
+parser.tab.o:3:26: error: stray ‘\367’ in program
+parser.tab.o:3:26: error: stray ‘\377’ in program
+parser.tab.o:3:26: error: stray ‘\377’ in program
+parser.tab.o:3:26: error: stray ‘\1’ in program
+parser.tab.o:3:26: error: stray ‘\320’ in program
+parser.tab.o:3:26: error: stray ‘\205’ in program
+parser.tab.o:3:26: error: stray ‘\350’ in program
+parser.tab.o:3:26: error: stray ‘\367’ in program
+parser.tab.o:3:26: error: stray ‘\377’ in program
+parser.tab.o:3:26: error: stray ‘\377’ in program
+parser.tab.o:3:26: error: stray ‘\17’ in program
+parser.tab.o:3:26: error: stray ‘\207’ in program
+parser.tab.o:3:26: error: stray ‘\346’ in program
+parser.tab.o:3:26: error: stray ‘\1’ in program
+In file included from test.c:6:0:
+parser.tab.o:3:235: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:3:26: error: stray ‘\213’ in program
+parser.tab.o:3:26: error: stray ‘\225’ in program
+parser.tab.o:3:26: error: stray ‘\350’ in program
+parser.tab.o:3:26: error: stray ‘\367’ in program
+parser.tab.o:3:26: error: stray ‘\377’ in program
+parser.tab.o:3:26: error: stray ‘\377’ in program
+In file included from test.c:6:0:
+parser.tab.o:3:237: error: unknown type name ‘H’
+In file included from test.c:6:0:
+parser.tab.o:3:26: error: stray ‘\213’ in program
+parser.tab.o:3:26: error: stray ‘\205’ in program
+parser.tab.o:3:26: error: stray ‘\340’ in program
+parser.tab.o:3:26: error: stray ‘\367’ in program
+parser.tab.o:3:26: error: stray ‘\377’ in program
+parser.tab.o:3:26: error: stray ‘\377’ in program
+In file included from test.c:6:0:
+parser.tab.o:3:251: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘H’
+parser.tab.o:3:251: error: stray ‘\302’ in program
+parser.tab.o:3:251: error: stray ‘\211’ in program
+parser.tab.o:3:251: error: stray ‘\320’ in program
+parser.tab.o:3:251: error: stray ‘\321’ in program
+parser.tab.o:3:251: error: stray ‘\370’ in program
+parser.tab.o:3:251: error: stray ‘\203’ in program
+parser.tab.o:3:251: error: stray ‘\300’ in program
+parser.tab.o:3:251: error: stray ‘\1’ in program
+parser.tab.o:3:251: error: stray ‘\211’ in program
+parser.tab.o:3:251: error: stray ‘\205’ in program
+parser.tab.o:3:251: error: stray ‘\10’ in program
+parser.tab.o:3:251: error: stray ‘\370’ in program
+parser.tab.o:3:251: error: stray ‘\377’ in program
+parser.tab.o:3:251: error: stray ‘\377’ in program
+parser.tab.o:3:251: error: stray ‘\201’ in program
+parser.tab.o:3:251: error: stray ‘\275’ in program
+parser.tab.o:3:274: warning: null character(s) ignored [enabled by default]
+parser.tab.o:3:251: error: stray ‘\370’ in program
+parser.tab.o:3:251: error: stray ‘\377’ in program
+parser.tab.o:3:251: error: stray ‘\377’ in program
+parser.tab.o:3:251: error: stray ‘\17’ in program
+parser.tab.o:3:279: warning: null character(s) preserved in literal [enabled by default]
+parser.tab.o:3:279: warning: character constant too long for its type [enabled by default]
+parser.tab.o:3:305: warning: null character(s) ignored [enabled by default]
+parser.tab.o:3:251: error: stray ‘\307’ in program
+parser.tab.o:3:251: error: stray ‘\205’ in program
+parser.tab.o:3:312: warning: null character(s) ignored [enabled by default]
+parser.tab.o:3:251: error: stray ‘\370’ in program
+parser.tab.o:3:251: error: stray ‘\377’ in program
+parser.tab.o:3:251: error: stray ‘\377’ in program
+parser.tab.o:3:251: error: stray ‘\20’ in program
+parser.tab.o:3:317: warning: null character(s) preserved in literal [enabled by default]
+parser.tab.o:3:317: warning: missing terminating ' character [enabled by default]
+parser.tab.o:3:251: error: missing terminating ' character
+In file included from test.c:6:0:
+parser.tab.o:4:1: error: stray ‘\377’ in program
+parser.tab.o:4:1: error: stray ‘\377’ in program
+parser.tab.o:4:1: error: stray ‘\377’ in program
+parser.tab.o:4:1: error: stray ‘\307’ in program
+parser.tab.o:4:1: error: stray ‘\205’ in program
+parser.tab.o:4:1: error: stray ‘\304’ in program
+parser.tab.o:4:1: error: stray ‘\367’ in program
+parser.tab.o:4:1: error: stray ‘\377’ in program
+parser.tab.o:4:1: error: stray ‘\377’ in program
+parser.tab.o:4:1: error: stray ‘\1’ in program
+parser.tab.o:4:11: warning: null character(s) ignored [enabled by default]
+parser.tab.o:4:1: error: stray ‘\353’ in program
+parser.tab.o:4:1: error: stray ‘\31’ in program
+parser.tab.o:4:1: error: stray ‘\277’ in program
+parser.tab.o:4:17: warning: null character(s) ignored [enabled by default]
+parser.tab.o:4:1: error: stray ‘\270’ in program
+parser.tab.o:4:22: warning: null character(s) ignored [enabled by default]
+parser.tab.o:4:1: error: stray ‘\350’ in program
+parser.tab.o:4:27: warning: null character(s) ignored [enabled by default]
+parser.tab.o:4:1: error: stray ‘\307’ in program
+parser.tab.o:4:1: error: stray ‘\205’ in program
+parser.tab.o:4:1: error: stray ‘\304’ in program
+parser.tab.o:4:1: error: stray ‘\367’ in program
+parser.tab.o:4:1: error: stray ‘\377’ in program
+parser.tab.o:4:1: error: stray ‘\377’ in program
+parser.tab.o:4:1: error: stray ‘\2’ in program
+parser.tab.o:4:38: warning: null character(s) ignored [enabled by default]
+parser.tab.o:4:1: error: stray ‘\213’ in program
+parser.tab.o:4:1: error: stray ‘\5’ in program
+parser.tab.o:4:43: warning: null character(s) ignored [enabled by default]
+parser.tab.o:4:1: error: stray ‘\203’ in program
+parser.tab.o:4:1: error: stray ‘\370’ in program
+parser.tab.o:4:1: error: stray ‘\376’ in program
+parser.tab.o:4:1: error: stray ‘\213’ in program
+parser.tab.o:4:1: error: stray ‘\5’ in program
+parser.tab.o:4:54: warning: null character(s) ignored [enabled by default]
+parser.tab.o:4:1: error: stray ‘\16’ in program
+parser.tab.o:4:1: error: stray ‘\1’ in program
+parser.tab.o:4:61: warning: null character(s) ignored [enabled by default]
+parser.tab.o:4:1: error: stray ‘\24’ in program
+parser.tab.o:4:1: error: stray ‘\213’ in program
+parser.tab.o:4:1: error: stray ‘\5’ in program
+parser.tab.o:4:67: warning: null character(s) ignored [enabled by default]
+parser.tab.o:4:1: error: stray ‘\230’ in program
+parser.tab.o:4:1: error: stray ‘\17’ in program
+parser.tab.o:4:1: error: stray ‘\266’ in program
+parser.tab.o:4:1: error: stray ‘\200’ in program
+parser.tab.o:4:76: warning: null character(s) ignored [enabled by default]
+parser.tab.o:4:1: error: stray ‘\17’ in program
+parser.tab.o:4:1: error: stray ‘\266’ in program
+parser.tab.o:4:1: error: stray ‘\300’ in program
+parser.tab.o:4:1: error: stray ‘\353’ in program
+parser.tab.o:4:1: error: stray ‘\5’ in program
+parser.tab.o:4:1: error: stray ‘\270’ in program
+parser.tab.o:4:1: error: stray ‘\2’ in program
+parser.tab.o:4:87: warning: null character(s) ignored [enabled by default]
+parser.tab.o:4:1: error: stray ‘\211’ in program
+parser.tab.o:4:1: error: stray ‘\205’ in program
+parser.tab.o:4:1: error: stray ‘\310’ in program
+parser.tab.o:4:1: error: stray ‘\367’ in program
+parser.tab.o:4:1: error: stray ‘\377’ in program
+parser.tab.o:4:1: error: stray ‘\377’ in program
+parser.tab.o:4:1: error: stray ‘\213’ in program
+parser.tab.o:4:1: error: stray ‘\205’ in program
+parser.tab.o:4:1: error: stray ‘\310’ in program
+parser.tab.o:4:1: error: stray ‘\367’ in program
+parser.tab.o:4:1: error: stray ‘\377’ in program
+parser.tab.o:4:1: error: stray ‘\377’ in program
+parser.tab.o:4:1: error: stray ‘\272’ in program
+parser.tab.o:4:103: warning: null character(s) ignored [enabled by default]
+parser.tab.o:4:1: error: stray ‘\211’ in program
+parser.tab.o:4:1: error: stray ‘\306’ in program
+parser.tab.o:4:1: error: stray ‘\277’ in program
+parser.tab.o:4:110: warning: null character(s) ignored [enabled by default]
+parser.tab.o:4:1: error: stray ‘\350’ in program
+parser.tab.o:4:1: error: stray ‘\370’ in program
+parser.tab.o:4:1: error: stray ‘\377’ in program
+parser.tab.o:4:1: error: stray ‘\377’ in program
+parser.tab.o:4:1: error: stray ‘\213’ in program
+parser.tab.o:4:1: error: stray ‘\205’ in program
+parser.tab.o:4:1: error: stray ‘\314’ in program
+parser.tab.o:4:1: error: stray ‘\367’ in program
+parser.tab.o:4:1: error: stray ‘\377’ in program
+parser.tab.o:4:1: error: stray ‘\377’ in program
+parser.tab.o:4:1: error: stray ‘\230’ in program
+parser.tab.o:4:1: error: stray ‘\301’ in program
+parser.tab.o:4:1: error: stray ‘\340’ in program
+parser.tab.o:4:1: error: stray ‘\3’ in program
+parser.tab.o:4:1: error: stray ‘\367’ in program
+parser.tab.o:4:1: error: stray ‘\330’ in program
+parser.tab.o:4:1: error: stray ‘\1’ in program
+parser.tab.o:4:1: error: stray ‘\205’ in program
+parser.tab.o:4:1: error: stray ‘\370’ in program
+parser.tab.o:4:1: error: stray ‘\367’ in program
+parser.tab.o:4:1: error: stray ‘\377’ in program
+parser.tab.o:4:1: error: stray ‘\377’ in program
+parser.tab.o:4:1: error: stray ‘\213’ in program
+parser.tab.o:4:1: error: stray ‘\205’ in program
+parser.tab.o:4:1: error: stray ‘\314’ in program
+parser.tab.o:4:1: error: stray ‘\367’ in program
+parser.tab.o:4:1: error: stray ‘\377’ in program
+parser.tab.o:4:1: error: stray ‘\377’ in program
+parser.tab.o:4:1: error: stray ‘\230’ in program
+parser.tab.o:4:1: error: stray ‘\1’ in program
+parser.tab.o:4:1: error: stray ‘\300’ in program
+parser.tab.o:4:1: error: stray ‘\367’ in program
+parser.tab.o:4:1: error: stray ‘\330’ in program
+parser.tab.o:4:1: error: stray ‘\1’ in program
+parser.tab.o:4:1: error: stray ‘\205’ in program
+parser.tab.o:4:1: error: stray ‘\350’ in program
+parser.tab.o:4:1: error: stray ‘\367’ in program
+parser.tab.o:4:1: error: stray ‘\377’ in program
+parser.tab.o:4:1: error: stray ‘\377’ in program
+parser.tab.o:4:1: error: stray ‘\353’ in program
+parser.tab.o:4:1: error: stray ‘\213’ in program
+parser.tab.o:4:1: error: stray ‘\205’ in program
+parser.tab.o:4:1: error: stray ‘\350’ in program
+parser.tab.o:4:1: error: stray ‘\367’ in program
+parser.tab.o:4:1: error: stray ‘\377’ in program
+parser.tab.o:4:1: error: stray ‘\377’ in program
+parser.tab.o:4:1: error: stray ‘\17’ in program
+parser.tab.o:4:1: error: stray ‘\267’ in program
+parser.tab.o:4:173: warning: null character(s) ignored [enabled by default]
+parser.tab.o:4:1: error: stray ‘\230’ in program
+parser.tab.o:4:1: error: stray ‘\230’ in program
+parser.tab.o:4:1: error: stray ‘\17’ in program
+parser.tab.o:4:1: error: stray ‘\266’ in program
+parser.tab.o:4:1: error: stray ‘\200’ in program
+parser.tab.o:4:180: warning: null character(s) ignored [enabled by default]
+parser.tab.o:4:1: error: stray ‘\17’ in program
+parser.tab.o:4:1: error: stray ‘\266’ in program
+parser.tab.o:4:1: error: stray ‘\300’ in program
+parser.tab.o:4:1: error: stray ‘\213’ in program
+parser.tab.o:4:1: error: stray ‘\225’ in program
+parser.tab.o:4:1: error: stray ‘\370’ in program
+parser.tab.o:4:1: error: stray ‘\367’ in program
+parser.tab.o:4:1: error: stray ‘\377’ in program
+parser.tab.o:4:1: error: stray ‘\377’ in program
+parser.tab.o:4:1: error: stray ‘\211’ in program
+parser.tab.o:4:1: error: stray ‘\306’ in program
+parser.tab.o:4:1: error: stray ‘\277’ in program
+parser.tab.o:4:197: warning: null character(s) ignored [enabled by default]
+parser.tab.o:4:1: error: stray ‘\350’ in program
+parser.tab.o:4:1: error: stray ‘\335’ in program
+parser.tab.o:4:1: error: stray ‘\367’ in program
+parser.tab.o:4:1: error: stray ‘\377’ in program
+parser.tab.o:4:1: error: stray ‘\377’ in program
+parser.tab.o:4:1: error: stray ‘\203’ in program
+parser.tab.o:4:1: error: stray ‘\255’ in program
+parser.tab.o:4:1: error: stray ‘\370’ in program
+parser.tab.o:4:1: error: stray ‘\367’ in program
+parser.tab.o:4:1: error: stray ‘\377’ in program
+parser.tab.o:4:1: error: stray ‘\377’ in program
+parser.tab.o:4:1: error: stray ‘\10’ in program
+parser.tab.o:4:1: error: stray ‘\203’ in program
+parser.tab.o:4:1: error: stray ‘\255’ in program
+parser.tab.o:4:1: error: stray ‘\350’ in program
+parser.tab.o:4:1: error: stray ‘\367’ in program
+parser.tab.o:4:1: error: stray ‘\377’ in program
+parser.tab.o:4:1: error: stray ‘\377’ in program
+parser.tab.o:4:1: error: stray ‘\2’ in program
+parser.tab.o:4:1: error: stray ‘\213’ in program
+parser.tab.o:4:1: error: stray ‘\205’ in program
+parser.tab.o:4:1: error: stray ‘\350’ in program
+parser.tab.o:4:1: error: stray ‘\367’ in program
+parser.tab.o:4:1: error: stray ‘\377’ in program
+parser.tab.o:4:1: error: stray ‘\377’ in program
+parser.tab.o:4:1: error: stray ‘\205’ in program
+parser.tab.o:4:1: error: stray ‘\340’ in program
+parser.tab.o:4:1: error: stray ‘\367’ in program
+parser.tab.o:4:1: error: stray ‘\377’ in program
+parser.tab.o:4:1: error: stray ‘\377’ in program
+parser.tab.o:4:1: error: stray ‘\266’ in program
+parser.tab.o:4:236: error: unknown type name ‘u’
+parser.tab.o:4:1: error: stray ‘\215’ in program
+parser.tab.o:4:1: error: stray ‘\205’ in program
+parser.tab.o:4:241: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before numeric constant
+parser.tab.o:4:241: error: stray ‘\370’ in program
+parser.tab.o:4:241: error: stray ‘\377’ in program
+parser.tab.o:4:241: error: stray ‘\377’ in program
+parser.tab.o:4:241: error: stray ‘\205’ in program
+parser.tab.o:4:241: error: stray ‘\340’ in program
+parser.tab.o:4:241: error: stray ‘\367’ in program
+parser.tab.o:4:241: error: stray ‘\377’ in program
+parser.tab.o:4:241: error: stray ‘\377’ in program
+parser.tab.o:4:241: error: stray ‘\17’ in program
+parser.tab.o:4:241: error: stray ‘\213’ in program
+parser.tab.o:4:241: error: stray ‘\205’ in program
+parser.tab.o:4:241: error: stray ‘\340’ in program
+parser.tab.o:4:241: error: stray ‘\367’ in program
+parser.tab.o:4:241: error: stray ‘\377’ in program
+parser.tab.o:4:241: error: stray ‘\377’ in program
+parser.tab.o:4:241: error: stray ‘\211’ in program
+parser.tab.o:4:241: error: stray ‘\307’ in program
+parser.tab.o:4:241: error: stray ‘\350’ in program
+parser.tab.o:4:265: warning: null character(s) ignored [enabled by default]
+parser.tab.o:4:241: error: stray ‘\213’ in program
+parser.tab.o:4:241: error: stray ‘\205’ in program
+parser.tab.o:4:241: error: stray ‘\304’ in program
+parser.tab.o:4:241: error: stray ‘\367’ in program
+parser.tab.o:4:241: error: stray ‘\377’ in program
+parser.tab.o:4:241: error: stray ‘\377’ in program
+parser.tab.o:4:241: error: stray ‘\311’ in program
+parser.tab.o:4:241: error: stray ‘\303’ in program
+parser.tab.o:4:277: warning: null character(s) ignored [enabled by default]
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\1’ in program
+parser.tab.o:4:241: error: stray ‘\2’ in program
+parser.tab.o:4:241: error: stray ‘\3’ in program
+parser.tab.o:4:241: error: stray ‘\4’ in program
+parser.tab.o:4:241: error: stray ‘\5’ in program
+parser.tab.o:4:241: error: stray ‘\6’ in program
+parser.tab.o:4:241: error: stray ‘\7’ in program
+parser.tab.o:4:241: error: stray ‘\10’ in program
+In file included from test.c:6:0:
+parser.tab.o:6:1: error: stray ‘\16’ in program
+parser.tab.o:6:1: error: stray ‘\17’ in program
+parser.tab.o:6:1: error: stray ‘\1’ in program
+parser.tab.o:6:1: error: stray ‘\370’ in program
+parser.tab.o:6:1: error: stray ‘\370’ in program
+parser.tab.o:6:1: error: stray ‘\1’ in program
+parser.tab.o:6:7: warning: null character(s) ignored [enabled by default]
+parser.tab.o:6:1: error: stray ‘\370’ in program
+parser.tab.o:6:1: error: stray ‘\371’ in program
+parser.tab.o:6:1: error: stray ‘\370’ in program
+parser.tab.o:6:1: error: stray ‘\1’ in program
+parser.tab.o:6:1: error: stray ‘\1’ in program
+parser.tab.o:6:1: error: stray ‘\370’ in program
+parser.tab.o:6:1: error: stray ‘\370’ in program
+parser.tab.o:6:1: error: stray ‘\370’ in program
+parser.tab.o:6:16: warning: null character(s) ignored [enabled by default]
+parser.tab.o:6:1: error: stray ‘\7’ in program
+parser.tab.o:6:1: error: stray ‘\6’ in program
+parser.tab.o:6:19: warning: null character(s) ignored [enabled by default]
+parser.tab.o:6:1: error: stray ‘\4’ in program
+parser.tab.o:6:22: warning: null character(s) ignored [enabled by default]
+parser.tab.o:6:1: error: stray ‘\1’ in program
+parser.tab.o:6:24: warning: null character(s) ignored [enabled by default]
+parser.tab.o:6:1: error: stray ‘\5’ in program
+parser.tab.o:6:1: error: stray ‘\2’ in program
+parser.tab.o:6:1: error: stray ‘\3’ in program
+parser.tab.o:6:1: error: stray ‘\370’ in program
+parser.tab.o:6:1: error: stray ‘\6’ in program
+parser.tab.o:6:1: error: stray ‘\372’ in program
+parser.tab.o:6:1: error: stray ‘\377’ in program
+parser.tab.o:6:1: error: stray ‘\4’ in program
+parser.tab.o:6:1: error: stray ‘\5’ in program
+parser.tab.o:6:1: error: stray ‘\7’ in program
+parser.tab.o:7:3: error: stray ‘\10’ in program
+parser.tab.o:7:3: error: stray ‘\1’ in program
+parser.tab.o:7:3: error: stray ‘\2’ in program
+parser.tab.o:7:3: error: stray ‘\3’ in program
+parser.tab.o:7:3: error: stray ‘\6’ in program
+parser.tab.o:7:9: warning: null character(s) ignored [enabled by default]
+parser.tab.o:7:3: error: stray ‘\10’ in program
+parser.tab.o:7:11: warning: null character(s) ignored [enabled by default]
+parser.tab.o:7:3: error: stray ‘\10’ in program
+parser.tab.o:7:3: error: stray ‘\10’ in program
+parser.tab.o:7:3: error: stray ‘\5’ in program
+parser.tab.o:7:3: error: stray ‘\6’ in program
+parser.tab.o:7:3: error: stray ‘\7’ in program
+parser.tab.o:7:3: error: stray ‘\3’ in program
+parser.tab.o:7:3: error: stray ‘\377’ in program
+parser.tab.o:7:23: warning: null character(s) ignored [enabled by default]
+parser.tab.o:7:3: error: stray ‘\5’ in program
+parser.tab.o:7:3: error: stray ‘\6’ in program
+parser.tab.o:7:3: error: stray ‘\7’ in program
+parser.tab.o:7:3: error: stray ‘\21’ in program
+parser.tab.o:7:3: error: stray ‘\22’ in program
+parser.tab.o:7:3: error: stray ‘\21’ in program
+parser.tab.o:7:32: warning: null character(s) ignored [enabled by default]
+parser.tab.o:7:3: error: stray ‘\10’ in program
+parser.tab.o:7:3: error: stray ‘\22’ in program
+parser.tab.o:7:3: error: stray ‘\22’ in program
+parser.tab.o:7:38: warning: null character(s) ignored [enabled by default]
+parser.tab.o:7:3: error: stray ‘\20’ in program
+parser.tab.o:7:3: error: stray ‘\21’ in program
+parser.tab.o:7:3: error: stray ‘\21’ in program
+parser.tab.o:7:3: error: stray ‘\21’ in program
+parser.tab.o:7:3: error: stray ‘\22’ in program
+parser.tab.o:7:3: error: stray ‘\22’ in program
+parser.tab.o:7:3: error: stray ‘\22’ in program
+parser.tab.o:7:46: warning: null character(s) ignored [enabled by default]
+parser.tab.o:7:3: error: stray ‘\2’ in program
+parser.tab.o:7:3: error: stray ‘\3’ in program
+parser.tab.o:7:3: error: stray ‘\3’ in program
+parser.tab.o:7:3: error: stray ‘\1’ in program
+parser.tab.o:7:3: error: stray ‘\3’ in program
+parser.tab.o:7:3: error: stray ‘\1’ in program
+parser.tab.o:7:3: error: stray ‘\1’ in program
+parser.tab.o:7:62: warning: null character(s) ignored [enabled by default]
+parser.tab.o:7:78: warning: null character(s) ignored [enabled by default]
+parser.tab.o:7:91: warning: null character(s) ignored [enabled by default]
+parser.tab.o:7:109: warning: null character(s) ignored [enabled by default]
+parser.tab.o:7:124: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:7:141: warning: null character(s) ignored [enabled by default]
+parser.tab.o:7:171: warning: null character(s) ignored [enabled by default]
+parser.tab.o:7:188: warning: null character(s) ignored [enabled by default]
+parser.tab.o:7:203: error: too many decimal points in number
+parser.tab.o:7:209: error: invalid suffix "ubuntu1" on integer constant
+parser.tab.o:7:220: error: too many decimal points in number
+parser.tab.o:7:225: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:7:3: error: stray ‘\24’ in program
+In file included from test.c:6:0:
+parser.tab.o:7:233: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:7:3: error: stray ‘\1’ in program
+In file included from test.c:6:0:
+parser.tab.o:7:243: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:7:3: error: stray ‘\1’ in program
+parser.tab.o:7:3: error: stray ‘\20’ in program
+parser.tab.o:7:3: error: stray ‘\1’ in program
+parser.tab.o:7:3: error: stray ‘\33’ in program
+parser.tab.o:7:3: error: stray ‘\7’ in program
+parser.tab.o:7:3: error: stray ‘\10’ in program
+parser.tab.o:7:3: error: stray ‘\220’ in program
+parser.tab.o:7:3: error: stray ‘\1’ in program
+In file included from test.c:6:0:
+parser.tab.o:7:254: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:7:3: error: stray ‘\34’ in program
+In file included from test.c:6:0:
+parser.tab.o:7:257: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:7:3: error: stray ‘\34’ in program
+In file included from test.c:6:0:
+parser.tab.o:7:261: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:7:3: error: stray ‘\16’ in program
+parser.tab.o:7:3: error: stray ‘\20’ in program
+parser.tab.o:7:3: error: stray ‘\206’ in program
+parser.tab.o:7:3: error: stray ‘\2’ in program
+In file included from test.c:6:0:
+parser.tab.o:8:1: error: stray ‘\6’ in program
+parser.tab.o:8:1: error: stray ‘\7’ in program
+parser.tab.o:8:1: error: stray ‘\10’ in program
+parser.tab.o:8:6: warning: null character(s) ignored [enabled by default]
+parser.tab.o:8:1: error: stray ‘\34’ in program
+parser.tab.o:8:10: warning: null character(s) ignored [enabled by default]
+parser.tab.o:8:14: warning: null character(s) ignored [enabled by default]
+parser.tab.o:8:1: error: stray ‘\10’ in program
+parser.tab.o:8:23: warning: null character(s) ignored [enabled by default]
+parser.tab.o:8:1: error: stray ‘\16’ in program
+parser.tab.o:8:1: error: stray ‘\20’ in program
+parser.tab.o:8:1: error: stray ‘\206’ in program
+parser.tab.o:8:1: error: stray ‘\2’ in program
+parser.tab.o:9:1: error: stray ‘\6’ in program
+parser.tab.o:9:1: error: stray ‘\3’ in program
+parser.tab.o:9:1: error: stray ‘\10’ in program
+parser.tab.o:9:1: error: stray ‘\7’ in program
+parser.tab.o:9:1: error: stray ‘\10’ in program
+parser.tab.o:9:8: warning: null character(s) ignored [enabled by default]
+parser.tab.o:9:17: warning: null character(s) ignored [enabled by default]
+parser.tab.o:9:25: warning: null character(s) ignored [enabled by default]
+parser.tab.o:9:35: warning: null character(s) ignored [enabled by default]
+parser.tab.o:9:46: warning: null character(s) ignored [enabled by default]
+parser.tab.o:9:52: warning: null character(s) ignored [enabled by default]
+parser.tab.o:9:57: warning: null character(s) ignored [enabled by default]
+parser.tab.o:9:65: warning: null character(s) ignored [enabled by default]
+parser.tab.o:9:74: warning: null character(s) ignored [enabled by default]
+parser.tab.o:9:90: warning: null character(s) ignored [enabled by default]
+parser.tab.o:9:105: warning: null character(s) ignored [enabled by default]
+parser.tab.o:9:1: error: stray ‘\1’ in program
+parser.tab.o:9:182: warning: null character(s) ignored [enabled by default]
+parser.tab.o:9:1: error: stray ‘\6’ in program
+parser.tab.o:9:186: warning: null character(s) ignored [enabled by default]
+parser.tab.o:9:201: error: stray ‘@’ in program
+parser.tab.o:9:202: warning: null character(s) ignored [enabled by default]
+parser.tab.o:9:1: error: stray ‘\10’ in program
+parser.tab.o:9:211: warning: null character(s) ignored [enabled by default]
+parser.tab.o:9:1: error: stray ‘\1’ in program
+parser.tab.o:9:226: warning: null character(s) ignored [enabled by default]
+parser.tab.o:9:1: error: stray ‘\33’ in program
+parser.tab.o:9:242: warning: null character(s) ignored [enabled by default]
+parser.tab.o:9:1: error: stray ‘\4’ in program
+parser.tab.o:9:246: warning: null character(s) ignored [enabled by default]
+parser.tab.o:9:1: error: stray ‘\22’ in program
+parser.tab.o:9:267: warning: null character(s) ignored [enabled by default]
+parser.tab.o:9:1: error: stray ‘\210’ in program
+parser.tab.o:9:1: error: stray ‘\5’ in program
+parser.tab.o:9:275: warning: null character(s) ignored [enabled by default]
+parser.tab.o:9:1: error: stray ‘\1’ in program
+parser.tab.o:9:286: warning: null character(s) ignored [enabled by default]
+parser.tab.o:9:1: error: stray ‘\10’ in program
+parser.tab.o:9:290: warning: null character(s) ignored [enabled by default]
+parser.tab.o:9:1: error: stray ‘\30’ in program
+parser.tab.o:9:298: warning: null character(s) ignored [enabled by default]
+parser.tab.o:9:306: warning: null character(s) ignored [enabled by default]
+parser.tab.o:9:1: error: stray ‘\1’ in program
+parser.tab.o:9:310: warning: null character(s) ignored [enabled by default]
+parser.tab.o:9:1: error: stray ‘\3’ in program
+parser.tab.o:9:314: warning: null character(s) ignored [enabled by default]
+parser.tab.o:9:1: error: stray ‘\252’ in program
+parser.tab.o:9:1: error: stray ‘\10’ in program
+parser.tab.o:9:331: warning: null character(s) ignored [enabled by default]
+parser.tab.o:9:1: error: stray ‘\1’ in program
+parser.tab.o:9:354: warning: null character(s) ignored [enabled by default]
+parser.tab.o:9:370: warning: null character(s) ignored [enabled by default]
+parser.tab.o:9:1: error: stray ‘\10’ in program
+parser.tab.o:9:374: warning: null character(s) ignored [enabled by default]
+parser.tab.o:9:1: error: stray ‘\3’ in program
+parser.tab.o:9:378: warning: null character(s) ignored [enabled by default]
+parser.tab.o:9:1: error: stray ‘\252’ in program
+parser.tab.o:9:1: error: stray ‘\10’ in program
+parser.tab.o:9:395: warning: null character(s) ignored [enabled by default]
+parser.tab.o:9:1: error: stray ‘\1’ in program
+parser.tab.o:9:418: warning: null character(s) ignored [enabled by default]
+parser.tab.o:9:434: warning: null character(s) ignored [enabled by default]
+parser.tab.o:9:1: error: stray ‘\1’ in program
+parser.tab.o:9:438: warning: null character(s) ignored [enabled by default]
+parser.tab.o:9:1: error: stray ‘\2’ in program
+parser.tab.o:9:442: warning: null character(s) ignored [enabled by default]
+parser.tab.o:9:1: error: stray ‘\300’ in program
+parser.tab.o:9:1: error: stray ‘\10’ in program
+parser.tab.o:9:459: warning: null character(s) ignored [enabled by default]
+parser.tab.o:9:1: error: stray ‘\355’ in program
+parser.tab.o:9:1: error: stray ‘\1’ in program
+parser.tab.o:9:467: warning: null character(s) ignored [enabled by default]
+parser.tab.o:9:498: warning: null character(s) ignored [enabled by default]
+parser.tab.o:9:1: error: stray ‘\1’ in program
+parser.tab.o:9:502: warning: null character(s) ignored [enabled by default]
+parser.tab.o:9:506: warning: null character(s) ignored [enabled by default]
+parser.tab.o:9:1: error: stray ‘\255’ in program
+In file included from test.c:6:0:
+parser.tab.o:10:1: warning: null character(s) ignored [enabled by default]
+parser.tab.o:10:8: warning: null character(s) ignored [enabled by default]
+parser.tab.o:10:7: error: stray ‘\1’ in program
+parser.tab.o:10:24: warning: null character(s) ignored [enabled by default]
+parser.tab.o:10:7: error: stray ‘\1’ in program
+parser.tab.o:10:32: warning: null character(s) ignored [enabled by default]
+parser.tab.o:10:40: warning: null character(s) ignored [enabled by default]
+parser.tab.o:10:7: error: stray ‘\1’ in program
+parser.tab.o:10:44: warning: null character(s) ignored [enabled by default]
+parser.tab.o:10:7: error: stray ‘\322’ in program
+parser.tab.o:11:1: warning: null character(s) ignored [enabled by default]
+parser.tab.o:11:23: error: stray ‘\1’ in program
+parser.tab.o:11:24: warning: null character(s) ignored [enabled by default]
+parser.tab.o:11:40: warning: null character(s) ignored [enabled by default]
+parser.tab.o:11:23: error: stray ‘\1’ in program
+parser.tab.o:11:44: warning: null character(s) ignored [enabled by default]
+parser.tab.o:11:23: error: stray ‘\2’ in program
+parser.tab.o:11:48: warning: null character(s) ignored [enabled by default]
+parser.tab.o:11:23: error: stray ‘\330’ in program
+parser.tab.o:12:1: warning: null character(s) ignored [enabled by default]
+parser.tab.o:12:8: warning: null character(s) ignored [enabled by default]
+parser.tab.o:12:7: error: stray ‘\10’ in program
+parser.tab.o:12:24: warning: null character(s) ignored [enabled by default]
+parser.tab.o:12:40: warning: null character(s) ignored [enabled by default]
+parser.tab.o:12:7: error: stray ‘\4’ in program
+parser.tab.o:12:44: warning: null character(s) ignored [enabled by default]
+parser.tab.o:12:7: error: stray ‘\340’ in program
+parser.tab.o:12:7: error: stray ‘\27’ in program
+parser.tab.o:12:65: warning: null character(s) ignored [enabled by default]
+parser.tab.o:12:72: warning: null character(s) ignored [enabled by default]
+parser.tab.o:12:7: error: stray ‘\10’ in program
+parser.tab.o:12:84: warning: null character(s) ignored [enabled by default]
+parser.tab.o:12:7: error: stray ‘\10’ in program
+parser.tab.o:12:88: warning: null character(s) ignored [enabled by default]
+parser.tab.o:12:7: error: stray ‘\30’ in program
+parser.tab.o:12:96: warning: null character(s) ignored [enabled by default]
+parser.tab.o:12:7: error: stray ‘\21’ in program
+parser.tab.o:12:104: warning: null character(s) ignored [enabled by default]
+parser.tab.o:12:7: error: stray ‘\3’ in program
+parser.tab.o:12:108: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:12:128: warning: null character(s) ignored [enabled by default]
+parser.tab.o:12:136: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:12:7: error: stray ‘\1’ in program
+In file included from test.c:6:0:
+parser.tab.o:12:152: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:12:7: error: stray ‘\1’ in program
+In file included from test.c:6:0:
+parser.tab.o:12:168: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:12:7: error: stray ‘\2’ in program
+In file included from test.c:6:0:
+parser.tab.o:12:172: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:12:7: error: stray ‘\330’ in program
+parser.tab.o:12:7: error: stray ‘\16’ in program
+In file included from test.c:6:0:
+parser.tab.o:12:193: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:12:7: error: stray ‘\320’ in program
+parser.tab.o:12:7: error: stray ‘\2’ in program
+In file included from test.c:6:0:
+parser.tab.o:12:201: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:12:7: error: stray ‘\24’ in program
+In file included from test.c:6:0:
+parser.tab.o:12:212: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:12:7: error: stray ‘\10’ in program
+In file included from test.c:6:0:
+parser.tab.o:12:216: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:12:7: error: stray ‘\30’ in program
+In file included from test.c:6:0:
+parser.tab.o:12:224: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:12:7: error: stray ‘\3’ in program
+In file included from test.c:6:0:
+parser.tab.o:12:236: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:12:7: error: stray ‘\250’ in program
+parser.tab.o:12:7: error: stray ‘\21’ in program
+In file included from test.c:6:0:
+parser.tab.o:12:257: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:12:7: error: stray ‘\256’ in program
+In file included from test.c:6:0:
+parser.tab.o:12:264: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:12:7: error: stray ‘\1’ in program
+In file included from test.c:6:0:
+parser.tab.o:12:280: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:12:7: error: stray ‘\1’ in program
+In file included from test.c:6:0:
+parser.tab.o:12:320: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:12:7: error: stray ‘\4’ in program
+In file included from test.c:6:0:
+parser.tab.o:12:324: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:12:7: error: stray ‘\361’ in program
+parser.tab.o:12:7: error: stray ‘\377’ in program
+In file included from test.c:6:0:
+parser.tab.o:12:327: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:12:7: error: stray ‘\3’ in program
+In file included from test.c:6:0:
+parser.tab.o:12:348: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:12:7: error: stray ‘\1’ in program
+In file included from test.c:6:0:
+parser.tab.o:12:350: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:12:7: error: stray ‘\3’ in program
+In file included from test.c:6:0:
+parser.tab.o:12:372: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:12:7: error: stray ‘\3’ in program
+In file included from test.c:6:0:
+parser.tab.o:12:374: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:12:7: error: stray ‘\3’ in program
+In file included from test.c:6:0:
+parser.tab.o:12:396: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:12:7: error: stray ‘\4’ in program
+In file included from test.c:6:0:
+parser.tab.o:12:398: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:12:7: error: stray ‘\3’ in program
+In file included from test.c:6:0:
+parser.tab.o:12:420: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:12:7: error: stray ‘\5’ in program
+In file included from test.c:6:0:
+parser.tab.o:12:422: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:12:7: error: stray ‘\16’ in program
+In file included from test.c:6:0:
+parser.tab.o:12:440: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:12:7: error: stray ‘\1’ in program
+In file included from test.c:6:0:
+parser.tab.o:12:444: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:12:7: error: stray ‘\5’ in program
+In file included from test.c:6:0:
+parser.tab.o:12:446: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:12:7: error: stray ‘\17’ in program
+parser.tab.o:12:7: error: stray ‘\1’ in program
+In file included from test.c:6:0:
+parser.tab.o:12:457: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:12:7: error: stray ‘\32’ in program
+In file included from test.c:6:0:
+parser.tab.o:12:464: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:12:7: error: stray ‘\1’ in program
+In file included from test.c:6:0:
+parser.tab.o:12:468: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:12:7: error: stray ‘\5’ in program
+In file included from test.c:6:0:
+parser.tab.o:12:470: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:12:7: error: stray ‘\17’ in program
+parser.tab.o:12:7: error: stray ‘\1’ in program
+In file included from test.c:6:0:
+parser.tab.o:12:473: warning: null character(s) ignored [enabled by default]
+parser.tab.o:13:1: warning: null character(s) ignored [enabled by default]
+parser.tab.o:13:9: warning: null character(s) ignored [enabled by default]
+parser.tab.o:13:8: error: stray ‘\1’ in program
+parser.tab.o:13:13: warning: null character(s) ignored [enabled by default]
+parser.tab.o:13:8: error: stray ‘\5’ in program
+parser.tab.o:13:15: warning: null character(s) ignored [enabled by default]
+parser.tab.o:13:8: error: stray ‘\34’ in program
+parser.tab.o:13:8: error: stray ‘\1’ in program
+parser.tab.o:13:18: warning: null character(s) ignored [enabled by default]
+parser.tab.o:14:1: warning: null character(s) ignored [enabled by default]
+parser.tab.o:14:9: warning: null character(s) ignored [enabled by default]
+parser.tab.o:14:8: error: stray ‘\1’ in program
+parser.tab.o:14:13: warning: null character(s) ignored [enabled by default]
+parser.tab.o:14:8: error: stray ‘\5’ in program
+parser.tab.o:14:15: warning: null character(s) ignored [enabled by default]
+parser.tab.o:14:8: error: stray ‘\1’ in program
+parser.tab.o:14:18: warning: null character(s) ignored [enabled by default]
+parser.tab.o:14:8: error: stray ‘\3’ in program
+parser.tab.o:14:25: warning: null character(s) ignored [enabled by default]
+parser.tab.o:14:33: warning: null character(s) ignored [enabled by default]
+parser.tab.o:14:8: error: stray ‘\1’ in program
+parser.tab.o:14:37: warning: null character(s) ignored [enabled by default]
+parser.tab.o:14:8: error: stray ‘\5’ in program
+parser.tab.o:14:39: warning: null character(s) ignored [enabled by default]
+parser.tab.o:14:8: error: stray ‘\1’ in program
+parser.tab.o:14:42: warning: null character(s) ignored [enabled by default]
+parser.tab.o:14:8: error: stray ‘\3’ in program
+parser.tab.o:14:49: warning: null character(s) ignored [enabled by default]
+parser.tab.o:14:57: warning: null character(s) ignored [enabled by default]
+parser.tab.o:14:8: error: stray ‘\1’ in program
+parser.tab.o:14:61: warning: null character(s) ignored [enabled by default]
+parser.tab.o:14:8: error: stray ‘\5’ in program
+parser.tab.o:14:63: warning: null character(s) ignored [enabled by default]
+parser.tab.o:14:8: error: stray ‘\1’ in program
+parser.tab.o:14:66: warning: null character(s) ignored [enabled by default]
+parser.tab.o:15:1: warning: null character(s) ignored [enabled by default]
+parser.tab.o:15:9: warning: null character(s) ignored [enabled by default]
+parser.tab.o:15:8: error: stray ‘\1’ in program
+parser.tab.o:15:13: warning: null character(s) ignored [enabled by default]
+parser.tab.o:15:8: error: stray ‘\5’ in program
+parser.tab.o:15:15: warning: null character(s) ignored [enabled by default]
+parser.tab.o:15:8: error: stray ‘\1’ in program
+parser.tab.o:15:18: warning: null character(s) ignored [enabled by default]
+parser.tab.o:16:1: warning: null character(s) ignored [enabled by default]
+parser.tab.o:16:9: warning: null character(s) ignored [enabled by default]
+parser.tab.o:16:8: error: stray ‘\1’ in program
+parser.tab.o:16:13: warning: null character(s) ignored [enabled by default]
+parser.tab.o:16:8: error: stray ‘\5’ in program
+parser.tab.o:16:15: warning: null character(s) ignored [enabled by default]
+parser.tab.o:16:8: error: stray ‘\1’ in program
+parser.tab.o:16:18: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:1: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:9: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:8: error: stray ‘\1’ in program
+parser.tab.o:17:13: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:8: error: stray ‘\5’ in program
+parser.tab.o:17:15: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:8: error: stray ‘\1’ in program
+parser.tab.o:17:18: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:8: error: stray ‘\10’ in program
+parser.tab.o:17:25: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:33: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:8: error: stray ‘\1’ in program
+parser.tab.o:17:37: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:8: error: stray ‘\5’ in program
+parser.tab.o:17:39: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:8: error: stray ‘\1’ in program
+parser.tab.o:17:42: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:8: error: stray ‘\10’ in program
+parser.tab.o:17:49: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:57: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:8: error: stray ‘\2’ in program
+parser.tab.o:17:61: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:8: error: stray ‘\1’ in program
+parser.tab.o:17:63: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:8: error: stray ‘\3’ in program
+parser.tab.o:17:85: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:8: error: stray ‘\7’ in program
+parser.tab.o:17:87: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:8: error: stray ‘\3’ in program
+parser.tab.o:17:109: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:8: error: stray ‘\10’ in program
+parser.tab.o:17:111: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:8: error: stray ‘\3’ in program
+parser.tab.o:17:133: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:8: error: stray ‘\6’ in program
+parser.tab.o:17:135: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:153: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:8: error: stray ‘\21’ in program
+parser.tab.o:17:157: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:8: error: stray ‘\362’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+parser.tab.o:17:8: error: stray ‘\4’ in program
+parser.tab.o:17:161: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:8: error: stray ‘\4’ in program
+parser.tab.o:17:169: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:177: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:8: error: stray ‘\21’ in program
+parser.tab.o:17:181: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:8: error: stray ‘\362’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+parser.tab.o:17:8: error: stray ‘\10’ in program
+parser.tab.o:17:185: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:8: error: stray ‘\10’ in program
+parser.tab.o:17:193: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:201: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:8: error: stray ‘\21’ in program
+parser.tab.o:17:205: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:8: error: stray ‘\362’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+parser.tab.o:17:8: error: stray ‘\4’ in program
+parser.tab.o:17:209: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:8: error: stray ‘\4’ in program
+parser.tab.o:17:217: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:225: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:8: error: stray ‘\22’ in program
+parser.tab.o:17:229: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:8: error: stray ‘\1’ in program
+parser.tab.o:17:231: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:8: error: stray ‘\10’ in program
+parser.tab.o:17:242: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:8: error: stray ‘\206’ in program
+parser.tab.o:17:249: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:8: error: stray ‘\20’ in program
+parser.tab.o:17:253: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:8: error: stray ‘\215’ in program
+parser.tab.o:17:273: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:8: error: stray ‘\20’ in program
+parser.tab.o:17:277: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:8: error: stray ‘\224’ in program
+parser.tab.o:17:297: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:8: error: stray ‘\20’ in program
+parser.tab.o:17:301: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:8: error: stray ‘\231’ in program
+parser.tab.o:17:321: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:8: error: stray ‘\20’ in program
+parser.tab.o:17:325: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:8: error: stray ‘\237’ in program
+parser.tab.o:17:345: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:8: error: stray ‘\20’ in program
+parser.tab.o:17:349: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:8: error: stray ‘\246’ in program
+parser.tab.o:17:369: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:8: error: stray ‘\20’ in program
+parser.tab.o:17:373: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:405: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:417: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:424: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:433: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:441: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:451: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:459: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:467: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:474: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:479: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:484: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:495: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:502: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:509: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:17:517: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:525: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:532: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:539: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:544: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:550: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:557: warning: null character(s) ignored [enabled by default]
+parser.tab.o:17:565: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:17:8: error: stray ‘\32’ in program
+In file included from test.c:6:0:
+parser.tab.o:17:569: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:17:8: error: stray ‘\5’ in program
+In file included from test.c:6:0:
+parser.tab.o:17:581: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:17:8: error: stray ‘\1’ in program
+In file included from test.c:6:0:
+parser.tab.o:17:586: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:17:8: error: stray ‘\230’ in program
+In file included from test.c:6:0:
+parser.tab.o:17:593: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:17:8: error: stray ‘\2’ in program
+In file included from test.c:6:0:
+parser.tab.o:17:601: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:17:8: error: stray ‘\26’ in program
+In file included from test.c:6:0:
+parser.tab.o:17:605: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:17:8: error: stray ‘\370’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+parser.tab.o:17:8: error: stray ‘\242’ in program
+In file included from test.c:6:0:
+parser.tab.o:17:617: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:17:8: error: stray ‘\2’ in program
+In file included from test.c:6:0:
+parser.tab.o:17:625: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:17:8: error: stray ‘\24’ in program
+In file included from test.c:6:0:
+parser.tab.o:17:629: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:17:8: error: stray ‘\370’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+parser.tab.o:17:8: error: stray ‘\1’ in program
+In file included from test.c:6:0:
+parser.tab.o:17:642: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:17:8: error: stray ‘\2’ in program
+In file included from test.c:6:0:
+parser.tab.o:17:649: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:17:8: error: stray ‘\30’ in program
+In file included from test.c:6:0:
+parser.tab.o:17:653: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:17:8: error: stray ‘\374’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+parser.tab.o:17:8: error: stray ‘\250’ in program
+parser.tab.o:17:8: error: stray ‘\1’ in program
+In file included from test.c:6:0:
+parser.tab.o:17:666: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:17:8: error: stray ‘\2’ in program
+In file included from test.c:6:0:
+parser.tab.o:17:673: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:17:8: error: stray ‘\31’ in program
+In file included from test.c:6:0:
+parser.tab.o:17:677: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:17:8: error: stray ‘\374’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+parser.tab.o:17:8: error: stray ‘\17’ in program
+parser.tab.o:17:8: error: stray ‘\2’ in program
+In file included from test.c:6:0:
+parser.tab.o:17:690: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:17:8: error: stray ‘\2’ in program
+In file included from test.c:6:0:
+parser.tab.o:17:697: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:17:8: error: stray ‘\31’ in program
+In file included from test.c:6:0:
+parser.tab.o:17:701: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:17:8: error: stray ‘\374’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+parser.tab.o:17:8: error: stray ‘\2’ in program
+In file included from test.c:6:0:
+parser.tab.o:17:714: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:17:8: error: stray ‘\2’ in program
+In file included from test.c:6:0:
+parser.tab.o:17:721: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:17:8: error: stray ‘\32’ in program
+In file included from test.c:6:0:
+parser.tab.o:17:725: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:17:8: error: stray ‘\374’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+parser.tab.o:17:8: error: stray ‘\366’ in program
+parser.tab.o:17:8: error: stray ‘\2’ in program
+In file included from test.c:6:0:
+parser.tab.o:17:738: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:17:8: error: stray ‘\5’ in program
+In file included from test.c:6:0:
+parser.tab.o:17:749: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:17:8: error: stray ‘\17’ in program
+parser.tab.o:17:8: error: stray ‘\1’ in program
+In file included from test.c:6:0:
+parser.tab.o:17:754: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:17:8: error: stray ‘\23’ in program
+parser.tab.o:17:8: error: stray ‘\3’ in program
+In file included from test.c:6:0:
+parser.tab.o:17:762: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:17:8: error: stray ‘\2’ in program
+In file included from test.c:6:0:
+parser.tab.o:17:769: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:17:8: error: stray ‘\24’ in program
+In file included from test.c:6:0:
+parser.tab.o:17:773: warning: null character(s) ignored [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:17:8: error: stray ‘\374’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+parser.tab.o:17:8: error: stray ‘\377’ in program
+In file included from test.c:6:0:
+parser.tab.o:17:784: warning: null character(s) preserved in literal [enabled by default]
+parser.tab.o:17:784: warning: missing terminating " character [enabled by default]
+In file included from test.c:6:0:
+parser.tab.o:17:8: error: missing terminating " character
+In file included from test.c:6:0:
+parser.tab.o:18:1: warning: null character(s) ignored [enabled by default]
+parser.tab.o:18:4: error: stray ‘\5’ in program
+parser.tab.o:18:5: warning: null character(s) ignored [enabled by default]
+parser.tab.o:18:4: error: stray ‘\1’ in program
+parser.tab.o:18:10: warning: null character(s) ignored [enabled by default]
+parser.tab.o:18:4: error: stray ‘\267’ in program
+parser.tab.o:18:4: error: stray ‘\4’ in program
+parser.tab.o:18:18: warning: null character(s) ignored [enabled by default]
+parser.tab.o:18:4: error: stray ‘\2’ in program
+parser.tab.o:18:25: warning: null character(s) ignored [enabled by default]
+parser.tab.o:18:4: error: stray ‘\34’ in program
+parser.tab.o:18:29: warning: null character(s) ignored [enabled by default]
+parser.tab.o:18:4: error: stray ‘\374’ in program
+parser.tab.o:18:4: error: stray ‘\377’ in program
+parser.tab.o:18:4: error: stray ‘\377’ in program
+parser.tab.o:18:4: error: stray ‘\377’ in program
+parser.tab.o:18:4: error: stray ‘\377’ in program
+parser.tab.o:18:4: error: stray ‘\377’ in program
+parser.tab.o:18:4: error: stray ‘\377’ in program
+parser.tab.o:18:4: error: stray ‘\377’ in program
+parser.tab.o:18:4: error: stray ‘\25’ in program
+parser.tab.o:18:4: error: stray ‘\5’ in program
+parser.tab.o:18:42: warning: null character(s) ignored [enabled by default]
+parser.tab.o:18:4: error: stray ‘\5’ in program
+parser.tab.o:18:53: warning: null character(s) ignored [enabled by default]
+parser.tab.o:18:4: error: stray ‘\1’ in program
+parser.tab.o:18:58: warning: null character(s) ignored [enabled by default]
+parser.tab.o:18:4: error: stray ‘\5’ in program
+parser.tab.o:18:66: warning: null character(s) ignored [enabled by default]
+parser.tab.o:18:4: error: stray ‘\5’ in program
+parser.tab.o:18:77: warning: null character(s) ignored [enabled by default]
+parser.tab.o:18:4: error: stray ‘\1’ in program
+parser.tab.o:18:82: warning: null character(s) ignored [enabled by default]
+parser.tab.o:18:4: error: stray ‘\5’ in program
+parser.tab.o:18:90: warning: null character(s) ignored [enabled by default]
+parser.tab.o:18:4: error: stray ‘\5’ in program
+parser.tab.o:18:101: warning: null character(s) ignored [enabled by default]
+parser.tab.o:18:4: error: stray ‘\1’ in program
+parser.tab.o:18:106: warning: null character(s) ignored [enabled by default]
+parser.tab.o:18:4: error: stray ‘\211’ in program
+parser.tab.o:18:4: error: stray ‘\5’ in program
+parser.tab.o:18:114: warning: null character(s) ignored [enabled by default]
+parser.tab.o:18:4: error: stray ‘\5’ in program
+parser.tab.o:18:125: warning: null character(s) ignored [enabled by default]
+parser.tab.o:18:4: error: stray ‘\1’ in program
+parser.tab.o:18:130: warning: null character(s) ignored [enabled by default]
+parser.tab.o:18:4: error: stray ‘\251’ in program
+parser.tab.o:18:4: error: stray ‘\5’ in program
+parser.tab.o:18:138: warning: null character(s) ignored [enabled by default]
+parser.tab.o:18:4: error: stray ‘\5’ in program
+parser.tab.o:18:149: warning: null character(s) ignored [enabled by default]
+parser.tab.o:18:4: error: stray ‘\1’ in program
+parser.tab.o:18:154: warning: null character(s) ignored [enabled by default]
+parser.tab.o:18:4: error: stray ‘\275’ in program
+parser.tab.o:18:4: error: stray ‘\5’ in program
+parser.tab.o:18:162: warning: null character(s) ignored [enabled by default]
+parser.tab.o:18:4: error: stray ‘\2’ in program
+parser.tab.o:18:169: warning: null character(s) ignored [enabled by default]
+parser.tab.o:18:4: error: stray ‘\24’ in program
+parser.tab.o:18:173: warning: null character(s) ignored [enabled by default]
+parser.tab.o:18:4: error: stray ‘\374’ in program
+parser.tab.o:18:4: error: stray ‘\377’ in program
+parser.tab.o:18:4: error: stray ‘\377’ in program
+parser.tab.o:18:4: error: stray ‘\377’ in program
+parser.tab.o:18:4: error: stray ‘\377’ in program
+parser.tab.o:18:4: error: stray ‘\377’ in program
+parser.tab.o:18:4: error: stray ‘\377’ in program
+parser.tab.o:18:4: error: stray ‘\377’ in program
+parser.tab.o:18:4: error: stray ‘\312’ in program
+parser.tab.o:18:4: error: stray ‘\5’ in program
+parser.tab.o:18:186: warning: null character(s) ignored [enabled by default]
+parser.tab.o:18:4: error: stray ‘\2’ in program
+parser.tab.o:18:193: warning: null character(s) ignored [enabled by default]
+parser.tab.o:18:4: error: stray ‘\24’ in program
+parser.tab.o:18:197: warning: null character(s) ignored [enabled by default]
+parser.tab.o:18:4: error: stray ‘\374’ in program
+parser.tab.o:18:4: error: stray ‘\377’ in program
+parser.tab.o:18:4: error: stray ‘\377’ in program
+parser.tab.o:18:4: error: stray ‘\377’ in program
+parser.tab.o:18:4: error: stray ‘\377’ in program
+parser.tab.o:18:4: error: stray ‘\377’ in program
+parser.tab.o:18:4: error: stray ‘\377’ in program
+parser.tab.o:18:4: error: stray ‘\377’ in program
+parser.tab.o:18:4: error: stray ‘\323’ in program
+parser.tab.o:18:4: error: stray ‘\5’ in program
+parser.tab.o:18:210: warning: null character(s) ignored [enabled by default]
+parser.tab.o:18:4: error: stray ‘\5’ in program
+parser.tab.o:18:221: warning: null character(s) ignored [enabled by default]
+parser.tab.o:18:4: error: stray ‘\371’ in program
+parser.tab.o:18:4: error: stray ‘\5’ in program
+parser.tab.o:18:234: warning: null character(s) ignored [enabled by default]
+parser.tab.o:18:4: error: stray ‘\2’ in program
+parser.tab.o:18:241: warning: null character(s) ignored [enabled by default]
+parser.tab.o:18:4: error: stray ‘\26’ in program
+parser.tab.o:18:245: warning: null character(s) ignored [enabled by default]
+parser.tab.o:18:4: error: stray ‘\374’ in program
+parser.tab.o:18:4: error: stray ‘\377’ in program
+parser.tab.o:18:4: error: stray ‘\377’ in program
+parser.tab.o:18:4: error: stray ‘\377’ in program
+parser.tab.o:18:4: error: stray ‘\377’ in program
+parser.tab.o:18:4: error: stray ‘\377’ in program
+parser.tab.o:18:4: error: stray ‘\377’ in program
+parser.tab.o:18:4: error: stray ‘\377’ in program
+parser.tab.o:18:4: error: stray ‘\2’ in program
+parser.tab.o:18:4: error: stray ‘\6’ in program
+parser.tab.o:18:258: warning: null character(s) ignored [enabled by default]
+parser.tab.o:18:4: error: stray ‘\2’ in program
+parser.tab.o:18:265: warning: null character(s) ignored [enabled by default]
+parser.tab.o:18:4: error: stray ‘\26’ in program
+parser.tab.o:18:269: warning: null character(s) ignored [enabled by default]
+parser.tab.o:18:4: error: stray ‘\374’ in program
+parser.tab.o:18:4: error: stray ‘\377’ in program
+parser.tab.o:18:4: error: stray ‘\377’ in program
+parser.tab.o:18:4: error: stray ‘\377’ in program
+parser.tab.o:18:4: error: stray ‘\377’ in program
+parser.tab.o:18:4: error: stray ‘\377’ in program
+parser.tab.o:18:4: error: stray ‘\377’ in program
+parser.tab.o:18:4: error: stray ‘\377’ in program
+parser.tab.o:18:4: error: stray ‘\7’ in program
+parser.tab.o:18:4: error: stray ‘\6’ in program
+parser.tab.o:18:282: warning: null character(s) ignored [enabled by default]
+parser.tab.o:19:1: warning: null character(s) ignored [enabled by default]
+parser.tab.o:19:4: error: stray ‘\5’ in program
+parser.tab.o:19:5: warning: null character(s) ignored [enabled by default]
+parser.tab.o:19:4: error: stray ‘\177’ in program
+parser.tab.o:19:4: error: stray ‘\1’ in program
+parser.tab.o:19:10: warning: null character(s) ignored [enabled by default]
+parser.tab.o:19:4: error: stray ‘\21’ in program
+parser.tab.o:19:4: error: stray ‘\6’ in program
+parser.tab.o:19:18: warning: null character(s) ignored [enabled by default]
+parser.tab.o:19:4: error: stray ‘\2’ in program
+parser.tab.o:19:25: warning: null character(s) ignored [enabled by default]
+parser.tab.o:19:4: error: stray ‘\35’ in program
+parser.tab.o:19:29: warning: null character(s) ignored [enabled by default]
+parser.tab.o:19:4: error: stray ‘\374’ in program
+parser.tab.o:19:4: error: stray ‘\377’ in program
+parser.tab.o:19:4: error: stray ‘\377’ in program
+parser.tab.o:19:4: error: stray ‘\377’ in program
+parser.tab.o:19:4: error: stray ‘\377’ in program
+parser.tab.o:19:4: error: stray ‘\377’ in program
+parser.tab.o:19:4: error: stray ‘\377’ in program
+parser.tab.o:19:4: error: stray ‘\377’ in program
+parser.tab.o:19:4: error: stray ‘\6’ in program
+parser.tab.o:19:42: warning: null character(s) ignored [enabled by default]
+parser.tab.o:19:4: error: stray ‘\2’ in program
+parser.tab.o:19:49: warning: null character(s) ignored [enabled by default]
+parser.tab.o:19:4: error: stray ‘\24’ in program
+parser.tab.o:19:53: warning: null character(s) ignored [enabled by default]
+parser.tab.o:19:4: error: stray ‘\374’ in program
+parser.tab.o:19:4: error: stray ‘\377’ in program
+parser.tab.o:19:4: error: stray ‘\377’ in program
+parser.tab.o:19:4: error: stray ‘\377’ in program
+parser.tab.o:19:4: error: stray ‘\377’ in program
+parser.tab.o:19:4: error: stray ‘\377’ in program
+parser.tab.o:19:4: error: stray ‘\377’ in program
+parser.tab.o:19:4: error: stray ‘\377’ in program
+parser.tab.o:19:4: error: stray ‘\6’ in program
+parser.tab.o:19:66: warning: null character(s) ignored [enabled by default]
+parser.tab.o:19:4: error: stray ‘\2’ in program
+parser.tab.o:19:73: warning: null character(s) ignored [enabled by default]
+parser.tab.o:19:4: error: stray ‘\24’ in program
+parser.tab.o:19:77: warning: null character(s) ignored [enabled by default]
+parser.tab.o:19:4: error: stray ‘\374’ in program
+parser.tab.o:19:4: error: stray ‘\377’ in program
+parser.tab.o:19:4: error: stray ‘\377’ in program
+parser.tab.o:19:4: error: stray ‘\377’ in program
+parser.tab.o:19:4: error: stray ‘\377’ in program
+parser.tab.o:19:4: error: stray ‘\377’ in program
+parser.tab.o:19:4: error: stray ‘\377’ in program
+parser.tab.o:19:4: error: stray ‘\377’ in program
+parser.tab.o:19:4: error: stray ‘\6’ in program
+parser.tab.o:19:90: warning: null character(s) ignored [enabled by default]
+parser.tab.o:20:1: warning: null character(s) ignored [enabled by default]
+parser.tab.o:20:4: error: stray ‘\25’ in program
+parser.tab.o:20:5: warning: null character(s) ignored [enabled by default]
+parser.tab.o:20:4: error: stray ‘\6’ in program
+parser.tab.o:20:18: warning: null character(s) ignored [enabled by default]
+parser.tab.o:21:1: warning: null character(s) ignored [enabled by default]
+parser.tab.o:21:4: error: stray ‘\5’ in program
+parser.tab.o:21:5: warning: null character(s) ignored [enabled by default]
+parser.tab.o:21:4: error: stray ‘\214’ in program
+parser.tab.o:21:4: error: stray ‘\1’ in program
+parser.tab.o:21:10: warning: null character(s) ignored [enabled by default]
+parser.tab.o:21:4: error: stray ‘\6’ in program
+parser.tab.o:21:18: warning: null character(s) ignored [enabled by default]
+parser.tab.o:21:4: error: stray ‘\2’ in program
+parser.tab.o:21:25: warning: null character(s) ignored [enabled by default]
+parser.tab.o:21:4: error: stray ‘\24’ in program
+parser.tab.o:21:29: warning: null character(s) ignored [enabled by default]
+parser.tab.o:21:4: error: stray ‘\370’ in program
+parser.tab.o:21:4: error: stray ‘\377’ in program
+parser.tab.o:21:4: error: stray ‘\377’ in program
+parser.tab.o:21:4: error: stray ‘\377’ in program
+parser.tab.o:21:4: error: stray ‘\377’ in program
+parser.tab.o:21:4: error: stray ‘\377’ in program
+parser.tab.o:21:4: error: stray ‘\377’ in program
+parser.tab.o:21:4: error: stray ‘\377’ in program
+parser.tab.o:21:4: error: stray ‘\6’ in program
+parser.tab.o:21:42: warning: null character(s) ignored [enabled by default]
+parser.tab.o:21:4: error: stray ‘\5’ in program
+parser.tab.o:21:53: warning: null character(s) ignored [enabled by default]
+parser.tab.o:21:4: error: stray ‘\17’ in program
+parser.tab.o:21:4: error: stray ‘\1’ in program
+parser.tab.o:21:58: warning: null character(s) ignored [enabled by default]
+parser.tab.o:21:4: error: stray ‘\250’ in program
+parser.tab.o:21:4: error: stray ‘\6’ in program
+parser.tab.o:21:66: warning: null character(s) ignored [enabled by default]
+parser.tab.o:21:4: error: stray ‘\5’ in program
+parser.tab.o:21:77: warning: null character(s) ignored [enabled by default]
+parser.tab.o:21:4: error: stray ‘\1’ in program
+parser.tab.o:21:82: warning: null character(s) ignored [enabled by default]
+parser.tab.o:21:4: error: stray ‘\273’ in program
+parser.tab.o:21:4: error: stray ‘\6’ in program
+parser.tab.o:21:90: warning: null character(s) ignored [enabled by default]
+parser.tab.o:21:4: error: stray ‘\5’ in program
+parser.tab.o:21:101: warning: null character(s) ignored [enabled by default]
+parser.tab.o:21:4: error: stray ‘\1’ in program
+parser.tab.o:21:106: warning: null character(s) ignored [enabled by default]
+parser.tab.o:21:4: error: stray ‘\344’ in program
+parser.tab.o:21:4: error: stray ‘\6’ in program
+parser.tab.o:21:114: warning: null character(s) ignored [enabled by default]
+parser.tab.o:21:4: error: stray ‘\2’ in program
+parser.tab.o:21:121: warning: null character(s) ignored [enabled by default]
+parser.tab.o:21:4: error: stray ‘\25’ in program
+parser.tab.o:21:125: warning: null character(s) ignored [enabled by default]
+parser.tab.o:21:4: error: stray ‘\374’ in program
+parser.tab.o:21:4: error: stray ‘\377’ in program
+parser.tab.o:21:4: error: stray ‘\377’ in program
+parser.tab.o:21:4: error: stray ‘\377’ in program
+parser.tab.o:21:4: error: stray ‘\377’ in program
+parser.tab.o:21:4: error: stray ‘\377’ in program
+parser.tab.o:21:4: error: stray ‘\377’ in program
+parser.tab.o:21:4: error: stray ‘\377’ in program
+parser.tab.o:21:4: error: stray ‘\31’ in program
+parser.tab.o:21:4: error: stray ‘\7’ in program
+parser.tab.o:21:138: warning: null character(s) ignored [enabled by default]
+parser.tab.o:21:4: error: stray ‘\5’ in program
+parser.tab.o:21:149: warning: null character(s) ignored [enabled by default]
+parser.tab.o:21:4: error: stray ‘\1’ in program
+parser.tab.o:21:154: warning: null character(s) ignored [enabled by default]
+parser.tab.o:21:4: error: stray ‘\7’ in program
+parser.tab.o:21:162: warning: null character(s) ignored [enabled by default]
+parser.tab.o:22:1: warning: null character(s) ignored [enabled by default]
+parser.tab.o:22:4: error: stray ‘\5’ in program
+parser.tab.o:22:5: warning: null character(s) ignored [enabled by default]
+parser.tab.o:22:4: error: stray ‘\236’ in program
+parser.tab.o:22:4: error: stray ‘\1’ in program
+parser.tab.o:22:10: warning: null character(s) ignored [enabled by default]
+parser.tab.o:22:4: error: stray ‘\7’ in program
+parser.tab.o:22:18: warning: null character(s) ignored [enabled by default]
+parser.tab.o:23:1: warning: null character(s) ignored [enabled by default]
+parser.tab.o:23:4: error: stray ‘\5’ in program
+parser.tab.o:23:5: warning: null character(s) ignored [enabled by default]
+parser.tab.o:23:4: error: stray ‘\255’ in program
+parser.tab.o:23:4: error: stray ‘\1’ in program
+parser.tab.o:23:10: warning: null character(s) ignored [enabled by default]
+parser.tab.o:23:4: error: stray ‘\7’ in program
+parser.tab.o:23:18: warning: null character(s) ignored [enabled by default]
+parser.tab.o:23:4: error: stray ‘\2’ in program
+parser.tab.o:23:25: warning: null character(s) ignored [enabled by default]
+parser.tab.o:23:4: error: stray ‘\35’ in program
+parser.tab.o:23:29: warning: null character(s) ignored [enabled by default]
+parser.tab.o:23:4: error: stray ‘\374’ in program
+parser.tab.o:23:4: error: stray ‘\377’ in program
+parser.tab.o:23:4: error: stray ‘\377’ in program
+parser.tab.o:23:4: error: stray ‘\377’ in program
+parser.tab.o:23:4: error: stray ‘\377’ in program
+parser.tab.o:23:4: error: stray ‘\377’ in program
+parser.tab.o:23:4: error: stray ‘\377’ in program
+parser.tab.o:23:4: error: stray ‘\377’ in program
+parser.tab.o:23:4: error: stray ‘\200’ in program
+parser.tab.o:23:4: error: stray ‘\7’ in program
+parser.tab.o:23:42: warning: null character(s) ignored [enabled by default]
+parser.tab.o:23:4: error: stray ‘\2’ in program
+parser.tab.o:23:49: warning: null character(s) ignored [enabled by default]
+parser.tab.o:23:4: error: stray ‘\24’ in program
+parser.tab.o:23:53: warning: null character(s) ignored [enabled by default]
+parser.tab.o:23:4: error: stray ‘\374’ in program
+parser.tab.o:23:4: error: stray ‘\377’ in program
+parser.tab.o:23:4: error: stray ‘\377’ in program
+parser.tab.o:23:4: error: stray ‘\377’ in program
+parser.tab.o:23:4: error: stray ‘\377’ in program
+parser.tab.o:23:4: error: stray ‘\377’ in program
+parser.tab.o:23:4: error: stray ‘\377’ in program
+parser.tab.o:23:4: error: stray ‘\377’ in program
+parser.tab.o:23:4: error: stray ‘\213’ in program
+parser.tab.o:23:4: error: stray ‘\7’ in program
+parser.tab.o:23:66: warning: null character(s) ignored [enabled by default]
+parser.tab.o:23:4: error: stray ‘\2’ in program
+parser.tab.o:23:73: warning: null character(s) ignored [enabled by default]
+parser.tab.o:23:4: error: stray ‘\24’ in program
+parser.tab.o:23:77: warning: null character(s) ignored [enabled by default]
+parser.tab.o:23:4: error: stray ‘\374’ in program
+parser.tab.o:23:4: error: stray ‘\377’ in program
+parser.tab.o:23:4: error: stray ‘\377’ in program
+parser.tab.o:23:4: error: stray ‘\377’ in program
+parser.tab.o:23:4: error: stray ‘\377’ in program
+parser.tab.o:23:4: error: stray ‘\377’ in program
+parser.tab.o:23:4: error: stray ‘\377’ in program
+parser.tab.o:23:4: error: stray ‘\377’ in program
+parser.tab.o:23:4: error: stray ‘\230’ in program
+parser.tab.o:23:4: error: stray ‘\7’ in program
+parser.tab.o:23:90: warning: null character(s) ignored [enabled by default]
+parser.tab.o:23:4: error: stray ‘\2’ in program
+parser.tab.o:23:97: warning: null character(s) ignored [enabled by default]
+parser.tab.o:23:4: error: stray ‘\24’ in program
+parser.tab.o:23:101: warning: null character(s) ignored [enabled by default]
+parser.tab.o:23:4: error: stray ‘\374’ in program
+parser.tab.o:23:4: error: stray ‘\377’ in program
+parser.tab.o:23:4: error: stray ‘\377’ in program
+parser.tab.o:23:4: error: stray ‘\377’ in program
+parser.tab.o:23:4: error: stray ‘\377’ in program
+parser.tab.o:23:4: error: stray ‘\377’ in program
+parser.tab.o:23:4: error: stray ‘\377’ in program
+parser.tab.o:23:4: error: stray ‘\377’ in program
+parser.tab.o:23:4: error: stray ‘\241’ in program
+parser.tab.o:23:4: error: stray ‘\7’ in program
+parser.tab.o:23:114: warning: null character(s) ignored [enabled by default]
+parser.tab.o:23:4: error: stray ‘\5’ in program
+parser.tab.o:23:125: warning: null character(s) ignored [enabled by default]
+parser.tab.o:23:4: error: stray ‘\274’ in program
+parser.tab.o:23:4: error: stray ‘\7’ in program
+parser.tab.o:23:138: warning: null character(s) ignored [enabled by default]
+parser.tab.o:24:1: warning: null character(s) ignored [enabled by default]
+parser.tab.o:24:4: error: stray ‘\25’ in program
+parser.tab.o:24:5: warning: null character(s) ignored [enabled by default]
+parser.tab.o:24:4: error: stray ‘\303’ in program
+parser.tab.o:24:4: error: stray ‘\7’ in program
+parser.tab.o:24:18: warning: null character(s) ignored [enabled by default]
+parser.tab.o:25:1: warning: null character(s) ignored [enabled by default]
+parser.tab.o:25:4: error: stray ‘\5’ in program
+parser.tab.o:25:5: warning: null character(s) ignored [enabled by default]
+parser.tab.o:25:4: error: stray ‘\276’ in program
+parser.tab.o:25:4: error: stray ‘\1’ in program
+parser.tab.o:25:10: warning: null character(s) ignored [enabled by default]
+parser.tab.o:25:4: error: stray ‘\10’ in program
+parser.tab.o:25:18: warning: null character(s) ignored [enabled by default]
+parser.tab.o:25:4: error: stray ‘\5’ in program
+parser.tab.o:25:29: warning: null character(s) ignored [enabled by default]
+parser.tab.o:25:4: error: stray ‘\1’ in program
+parser.tab.o:25:34: warning: null character(s) ignored [enabled by default]
+parser.tab.o:25:4: error: stray ‘\32’ in program
+parser.tab.o:25:4: error: stray ‘\10’ in program
+parser.tab.o:25:42: warning: null character(s) ignored [enabled by default]
+parser.tab.o:26:1: warning: null character(s) ignored [enabled by default]
+parser.tab.o:26:4: error: stray ‘\5’ in program
+parser.tab.o:26:5: warning: null character(s) ignored [enabled by default]
+parser.tab.o:26:4: error: stray ‘\334’ in program
+parser.tab.o:26:4: error: stray ‘\1’ in program
+parser.tab.o:26:10: warning: null character(s) ignored [enabled by default]
+parser.tab.o:26:4: error: stray ‘\10’ in program
+parser.tab.o:26:18: warning: null character(s) ignored [enabled by default]
+parser.tab.o:26:4: error: stray ‘\2’ in program
+parser.tab.o:26:25: warning: null character(s) ignored [enabled by default]
+parser.tab.o:26:4: error: stray ‘\32’ in program
+parser.tab.o:26:29: warning: null character(s) ignored [enabled by default]
+parser.tab.o:26:4: error: stray ‘\374’ in program
+parser.tab.o:26:4: error: stray ‘\377’ in program
+parser.tab.o:26:4: error: stray ‘\377’ in program
+parser.tab.o:26:4: error: stray ‘\377’ in program
+parser.tab.o:26:4: error: stray ‘\377’ in program
+parser.tab.o:26:4: error: stray ‘\377’ in program
+parser.tab.o:26:4: error: stray ‘\377’ in program
+parser.tab.o:26:4: error: stray ‘\377’ in program
+parser.tab.o:26:40: warning: null character(s) ignored [enabled by default]
+parser.tab.o:26:4: error: stray ‘\2’ in program
+parser.tab.o:26:49: warning: null character(s) ignored [enabled by default]
+parser.tab.o:26:4: error: stray ‘\2’ in program
+parser.tab.o:26:53: warning: null character(s) ignored [enabled by default]
+parser.tab.o:26:64: error: stray ‘@’ in program
+parser.tab.o:26:65: warning: null character(s) ignored [enabled by default]
+parser.tab.o:26:4: error: stray ‘\2’ in program
+parser.tab.o:26:73: warning: null character(s) ignored [enabled by default]
+parser.tab.o:26:4: error: stray ‘\2’ in program
+parser.tab.o:26:77: warning: null character(s) ignored [enabled by default]
+make: *** [test.o] Error 1
