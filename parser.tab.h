@@ -63,12 +63,12 @@ extern int yydebug;
 typedef union YYSTYPE YYSTYPE;
 union YYSTYPE
 {
-#line 12 "parser.y" /* yacc.c:1909  */
+#line 13 "parser.y" /* yacc.c:1909  */
 
 
 	int an_int;
-	char *a_string;
-	struct chickenVals a_chicken_val;
+	char* a_string;
+	struct chickenVals* a_chicken_val;
 
 #line 74 "parser.tab.h" /* yacc.c:1909  */
 };

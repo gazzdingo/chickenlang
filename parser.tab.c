@@ -68,7 +68,8 @@
 #include "chicken.h"
 #include "syntax.h"
 
-#line 72 "parser.tab.c" /* yacc.c:339  */
+
+#line 73 "parser.tab.c" /* yacc.c:339  */
 
 # ifndef YY_NULLPTR
 #  if defined __cplusplus && 201103L <= __cplusplus
@@ -121,14 +122,14 @@ extern int yydebug;
 typedef union YYSTYPE YYSTYPE;
 union YYSTYPE
 {
-#line 12 "parser.y" /* yacc.c:355  */
+#line 13 "parser.y" /* yacc.c:355  */
 
 
 	int an_int;
-	char *a_string;
-	struct chickenVals a_chicken_val;
+	char* a_string;
+	struct chickenVals* a_chicken_val;
 
-#line 132 "parser.tab.c" /* yacc.c:355  */
+#line 133 "parser.tab.c" /* yacc.c:355  */
 };
 # define YYSTYPE_IS_TRIVIAL 1
 # define YYSTYPE_IS_DECLARED 1
@@ -143,7 +144,7 @@ int yyparse (void);
 
 /* Copy the second part of user declarations.  */
 
-#line 147 "parser.tab.c" /* yacc.c:358  */
+#line 148 "parser.tab.c" /* yacc.c:358  */
 
 #ifdef short
 # undef short
@@ -441,7 +442,7 @@ static const yytype_uint8 yytranslate[] =
   /* YYRLINE[YYN] -- Source line where rule number YYN was defined.  */
 static const yytype_uint8 yyrline[] =
 {
-       0,    45,    45,    48,    54,    55
+       0,    46,    46,    49,    55,    56
 };
 #endif
 
@@ -1217,15 +1218,14 @@ yyreduce:
   switch (yyn)
     {
         case 4:
-#line 54 "parser.y" /* yacc.c:1646  */
-    {(yyvsp[-7].*a_string).x = (yyvsp[-4].an_int); (yyvsp[-7].*a_string).y = (yyvsp[-2].an_int);}
-#line 1223 "parser.tab.c" /* yacc.c:1646  */
+#line 55 "parser.y" /* yacc.c:1646  */
+    {(yyvsp[-7].a_string) = inputValue((yyvsp[-4].an_int),(yyvsp[-2].an_int));}
+#line 1224 "parser.tab.c" /* yacc.c:1646  */
     break;
 
   case 5:
-#line 55 "parser.y" /* yacc.c:1646  */
-    {(yyval.a_chicken_val) = inputValue(3, 5){
-};}
+#line 56 "parser.y" /* yacc.c:1646  */
+    {(yyval.a_chicken_val) = inputValue((yyvsp[-4].an_int), (yyvsp[-2].an_int));}
 #line 1230 "parser.tab.c" /* yacc.c:1646  */
     break;
 
