@@ -1,10 +1,7 @@
 
 struct chickenVals {
 
-	int kind;
-
-	void* left_arg;
-
-	void* right_arg;
+	int x;
+    int y;
 };
 extern struct chickenVals inputValue(int x, int y);
