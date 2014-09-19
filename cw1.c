@@ -23,7 +23,7 @@ void createCanvas() {
 
 	surface = SDL_SetVideoMode(640, 480, 32, SDL_SWSURFACE);
 	if(surface == NULL) {
-	
+
 		fprintf(stderr, "Could not initialise 640x480x32 window: %s", SDL_GetError());
 	}
 	SDL_WM_SetCaption("Canvas", NULL);
@@ -38,29 +38,29 @@ void putPixel(int x, int y, int r, int g, int b)
 {
 	/* Check preconditions */
 	if(x < 0 || x >= 640) {
-	
+
 	    fprintf(stderr, "putpixel: X coordinate out of range 0 - 639: %d\n", x);
 		exit(1);
 	}
-	
+
 	if(y < 0 || x >= 480) {
-	
+
 	    fprintf(stderr, "putpixel: X coordinate out of range 0 - 479: %d\n", x);
 		exit(1);
 	}
-	
+
 	if(r < 0 || r > 0xFF) {
 
 	    fprintf(stderr, "putpixel: r component out of range 0 - 0xff: %d\n", r);
 		exit(1);
 	}
-	
+
 	if(g < 0 || g > 0xFF) {
 
 	    fprintf(stderr, "putpixel: g component out of range 0 - 0xff: %d\n", g);
 		exit(1);
 	}
-	
+
 	if(b < 0 || b > 0xFF) {
 
 	    fprintf(stderr, "putpixel: b component out of range 0 - 0xff: %d\n", b);
@@ -73,12 +73,12 @@ void putPixel(int x, int y, int r, int g, int b)
 		exit(1);
 
 	}
-	
+
     /* Lock the surface for direct access to the pixels */
     if ( SDL_MUSTLOCK(surface) ) {
-	
+
         if ( SDL_LockSurface(surface) < 0 ) {
-		
+
             fprintf(stderr, "Can't lock surface: %s\n", SDL_GetError());
             exit(1);
         }
@@ -118,7 +118,7 @@ void putPixel(int x, int y, int r, int g, int b)
         *(Uint32 *)p = pixel;
         break;
     }
-	
+
 	/* Update just the part of the display that we've changed */
     SDL_UpdateRect(surface, x, y, 1, 1);
 
@@ -135,18 +135,18 @@ void waitToQuit() {
 
 	SDL_Event event;
 	while(1) {
-	
+
 		if(SDL_PollEvent(&event)) {
-		
+
 			switch(event.type) {
-			
+
 			case SDL_QUIT:
 				SDL_Quit();
 				return;
 			}
 		}
-	}	
-	
+	}
+
 	fprintf(stderr, "Quitting unexpectedly.\n");
 	exit(1);
 }

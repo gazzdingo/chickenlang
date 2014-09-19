@@ -76,8 +76,6 @@
         int r=0,c=0,rows=data2.Height,collumns=data2.Width;
         pixelarray= malloc(rows*sizeof(PIXEL *));
 
-        printf("%d %d\n",rows, collumns);
-
         int pixelnum=1;
 
 
@@ -94,9 +92,7 @@
                 }
             }
 
-
-            printf("R:%02X G:%02X B:%02X",pixelarray[5][200].Red,pixelarray[5][200].Green,pixelarray[5][200].Blue);
-             r=0;c=0;
+            r=0;c=0;
             for(r =0; r < rows;r++){
              for(c =0; c < collumns;c++){
                   putPixel((r+1)+offsetX,(c+1)+offsetY,pixelarray[r][c].Red,pixelarray[r][c].Green,pixelarray[r][c].Blue);
@@ -114,7 +110,7 @@
 
 
 
-
+        free(pixelarray);
 
         fclose(file);  //close the files prior to exiting
 }

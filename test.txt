@@ -1,1 +1,6 @@
-chicken hello = (200,0)
+chicken hello = (200,0);
+chicken hello = (100,0);
+chicken hello = (300,0);
+chicken hello = (400,0);
+chicken test = (250,350);
+end

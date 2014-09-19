@@ -24,6 +24,7 @@
 chicken                                 return CHICKEN_TOKEN;
 clear                                   return ClEAR_TOKEN;
 new                                     return NEW_TOKEN;
+end                                     return END;
 [a-zA-Z][a-zA-Z0-9_]*			       yylval.a_string = strdup(yytext); return IDENTIFIER;
 (0|([1-9][0-9]*))					   yylval.an_int = atoi(yytext); return NUMBER_TOKEN;
 [(]                                     return OPENPA_TOKEN;
@@ -31,6 +32,7 @@ new                                     return NEW_TOKEN;
 [=]                                     return EQUALS_TOKEN;
 [,]                                     return COMMA_TOKEN;
 [;]                                     return SEMICOL_TOKEN;
+
 
 
 [ \t\n]+							/* Skip whitespace */

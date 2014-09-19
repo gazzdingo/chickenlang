@@ -2,8 +2,11 @@
 	/* Prologue */
 %{
 #include <stdio.h>
+#include <strings.h>
 #include "chicken.h"
 #include "syntax.h"
+
+extern struct expr_t* syntax_tree;
 
 %}
 	/* Declarations section */
@@ -14,7 +17,8 @@
 
 	int an_int;
 	char* a_string;
-	struct chickenVals* a_chicken_val;
+	struct expr_t* exptT;
+	struct x_y_pos* xYPos;
 }
 
 %token CHICKEN_TOKEN
@@ -27,15 +31,14 @@
 %token EQUALS_TOKEN
 %token COMMA_TOKEN
 %token SEMICOL_TOKEN
-/*%token PLUS;
-%token MINUS;
-%token TIMES;
-%token DIVIDE;
-%token SEMICOLON;
-%token EQUALS;
-%token ERROR;*/
+%token END
 
-%type <a_chicken_val> chicken
+
+%type <xYPos> chicken
+%type <xYPos> chickenValues
+%type <a_string> assert
+%type <xYPos> value
+%type <exptT> expr
 
 
 %%
@@ -43,17 +46,23 @@
 
 
 program :
-	expr
+	expr{syntax_tree = $1;}
 
 expr :
-	chicken
+	|
+	CHICKEN_TOKEN IDENTIFIER value expr{$$= build_expr_t(CHICKEN,$2,$3,$4);}|
+	IDENTIFIER chicken expr
 
 value :
-CHICKEN_TOKEN IDENTIFIER chicken{struct chickenVals $2 = $3;} |CHICKEN_TOKEN IDENTIFIER SEMICOL_TOKEN{struct chickenVals* $2;}
+ chicken {$$ = $1;} |
+ SEMICOL_TOKEN
 
 chicken :
-	IDENTIFIER EQUALS_TOKEN OPENPA_TOKEN NUMBER_TOKEN COMMA_TOKEN NUMBER_TOKEN CLOSEDPA_TOKEN SEMICOL_TOKEN{$1 = inputValue($4,$6);}|
-	EQUALS_TOKEN OPENPA_TOKEN NUMBER_TOKEN COMMA_TOKEN NUMBER_TOKEN CLOSEDPA_TOKEN SEMICOL_TOKEN{$$ = inputValue($3, $5);}
+	EQUALS_TOKEN chickenValues SEMICOL_TOKEN {$$ = $2;}
+
+
+chickenValues:
+	OPENPA_TOKEN NUMBER_TOKEN COMMA_TOKEN NUMBER_TOKEN CLOSEDPA_TOKEN{$$ = build_x_y_pos($2, $4);}
 
 
 /*intvalue :
